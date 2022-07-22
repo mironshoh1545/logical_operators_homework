@@ -6,4 +6,4 @@ def main(a):
     Returns:
         bool: answer
     """
-    return
+    return a // 1000 == 0 and a // 100 != 0
